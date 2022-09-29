@@ -41,6 +41,3 @@ def process_reg(data_path):
     return data
 
 
-def postprocess(data):
-    """imutation,scaling,ordinal encoding ect.."""
-    pass
